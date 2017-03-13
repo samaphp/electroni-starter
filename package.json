@@ -1,0 +1,20 @@
+{
+  "name": "electroni-starter",
+  "version": "0.0.1",
+  "description": "Electron starter application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/samaphp/electroni-starter",
+  "keywords": [
+    "electron",
+    "starterkit",
+    "quick"
+  ],
+  "author": "samaphp",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
